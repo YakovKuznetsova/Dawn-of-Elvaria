@@ -1,15 +1,3 @@
-# CREDITI:
-#    federico cappi: Sound Designer / Tester / Cosenoiosechenonvogliofare Manager
-#    alessandro minoni: Lead Programmer
-#    francesprosciutto: Tester
-#    alessandrorenato il feldmaremarcio: Tester
-#    chatgpt: Slave to repetitive tasks (0$/h)
-#
-# INSPIRED BY:
-#    Frieren (magia / lore / nemici)
-#    Mushoku Tensei (magia / items)
-#    TES V. Skyrim (meccaniche / items)
-
 import time
 import pygame
 import traceback

@@ -1,14 +1,3 @@
-# per fede:
-# portati avanti con i suoni delle magie 
-# bisogna creare un carimento che si inizializzi prima dell'audio, è troppo pesante
-# trova un modo per non dover impacchettare con pyinstaller anche le cartelle audio, così da alleggerire di 300/400mb l'eseguibile
-# suono per l'armor, metterla/romperla/cambiarla(?) e bho
-# vediti tu i suoni per l'inventario
-# AIUTAMI CON I COMMENTI ✅
-# regola il volume del combattimento, è troppo alto ✅ good boy
-# sistemare i percorsi dell'audio ecc. ✅
-# CIAO AIUTAMI A SETTARE I SUONI DI TUTTI GLI OGGETTI NELLA LISTA "All_Generic_Items"
-
 import random
 import copy
 
